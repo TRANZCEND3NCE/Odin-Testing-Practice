@@ -1,0 +1,23 @@
+{
+  "name": "odin-testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TRANZCEND3NCE/Odin-Testing-Practice.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TRANZCEND3NCE/Odin-Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/TRANZCEND3NCE/Odin-Testing-Practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.14",
+    "jest": "^30.5.2"
+  }
+}
